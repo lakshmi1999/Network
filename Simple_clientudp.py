@@ -1,5 +1,5 @@
 #client socket
-import socket
+import socket#import socket module
 #define the udp ip and port number
 udpip="10.1.24.121"
 udpport=6002
