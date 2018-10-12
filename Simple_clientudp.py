@@ -1,4 +1,4 @@
-#client socket
+#simple client udp
 import socket#import socket module
 #define the udp ip and port number
 udpip="10.1.24.121"
