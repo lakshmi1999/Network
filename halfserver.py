@@ -1,4 +1,4 @@
-#half server
+#half duplex communication server-tcp
 import socket
 serverport = 6004
 serversocket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
