@@ -1,3 +1,4 @@
+#first address,last address,address space calculation
 import ipaddress
 import math
 addr=input("Enter the ip:")
