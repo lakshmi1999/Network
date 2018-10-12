@@ -1,3 +1,4 @@
+#full duplex communication using udp-client
 import socket
 import threading
 import time
