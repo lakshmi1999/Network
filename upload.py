@@ -1,3 +1,4 @@
+#uploading a webpage
 from http.server import HTTPServer,BaseHTTPRequestHandler
 class Serv(BaseHTTPRequestHandler):
 	def do_GET(self):
