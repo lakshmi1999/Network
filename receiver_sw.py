@@ -1,3 +1,4 @@
+#stop and wait receiver-udp
 import socket
 serverport =5100
 serversocket = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
