@@ -1,3 +1,4 @@
+#full duplex communication server-udp
 import socket
 import time
 port=7000
