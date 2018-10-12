@@ -1,4 +1,4 @@
-#echo client
+#echo client - udp
 import socket#import socket module
 #here we define the udp ip address as well as port number
 udpip="10.1.24.122"
